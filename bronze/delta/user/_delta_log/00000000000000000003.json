@@ -1,0 +1,3 @@
+{"commitInfo":{"timestamp":1637030575795,"operation":"UPDATE","operationParameters":{"predicate":"(email#938 = marcos.collier@email.com)"},"readVersion":2,"isBlindAppend":false,"operationMetrics":{"numRemovedFiles":"1","numCopiedRows":"99","executionTimeMs":"1744","scanTimeMs":"1315","numAddedFiles":"1","numUpdatedRows":"1","rewriteTimeMs":"429"}}}
+{"remove":{"path":"part-00002-2d347455-a506-4837-99eb-b6b02d26848a-c000.snappy.parquet","deletionTimestamp":1637030575361,"dataChange":true,"extendedFileMetadata":true,"partitionValues":{},"size":2862}}
+{"add":{"path":"part-00000-921b07e2-9ac1-4434-9402-81360728d98e-c000.snappy.parquet","partitionValues":{},"size":2844,"modificationTime":1637030575777,"dataChange":true}}
